@@ -1,8 +1,10 @@
 This work is based on the paper below. In it I reproduce the most of the results to a close degree although there are some divergence. 
 Unlike the paper, I use only 100 channel realizations. For data detections for ser analysis, I use only 1 channel realization.
-I have included a pdf of my walkthrough of the derivations in the paper.
+I have included a pdf of my walkthrough of the derivations in the paper. Results are contained in Result.pdf.
 
 This paper is for educational purposes where I look to enhance my ability to understand literature papers and simulation skills.
+
+
 
 
 
