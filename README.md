@@ -1,9 +1,14 @@
-This work is based on the paper below. In it I reproduce the most of the results to a close degree although there are some divergence. 
-Unlike the paper, I use only 100 channel realizations. For data detections for ser analysis, I use only 1 channel realization.
-I have included a pdf of my walkthrough of the derivations in the paper. Results are contained in Result.pdf.
+This work is based on the referenced paper, where I attempt to reproduce most of the results. Unlike the paper, I use only 100 channel realizations. For data detections for SER analysis, I use only one channel realization. I have included a PDF of my walkthrough of the derivations in the paper.
 
-This paper is for educational purposes where I look to enhance my ability to understand literature papers and simulation skills.
+The results are compiled in result.pdf.
 
+This project is for educational purposes, aiming to enhance my ability to understand academic papers and improve my simulation skills.
+
+The modules included are as follows:
+
+maincode.m: Contains the main script that calls other functions to produce the data presented in Figures 2, 4, and 5 of the referenced paper.
+channel.m: A function that returns a discrete physical channel based on UPAs at the transmitter (Tx) and receiver (Rx).
+combiner.m: A function that returns the combiner V to be used at the receiver for estimation.
 
 
 
